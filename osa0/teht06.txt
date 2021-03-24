@@ -1,5 +1,5 @@
 note over selain:
-Selain suorittaa javascript-koodin, joka lisää näytettävän sivun listaan uuden $
+Selain suorittaa javascript-koodin, joka lisää sivun listaan uuden
 lomakkeen kentän perusteella ja lähettää tiedot palvelimelle
 END NOTE
 
