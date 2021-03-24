@@ -1,0 +1,9 @@
+note over selain:
+Selain suorittaa javascript-koodin, joka lisää näytettävän sivun listaan uuden $
+lomakkeen kentän perusteella ja lähettää tiedot palvelimelle
+END NOTE
+
+selain->palvelin: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note$
+palvelin->selain: statuskoodi 201 created
+
+
